@@ -12,12 +12,12 @@ _This is the recommended game mode for courses or with new gamers._
 
 In <img src="https://github.com/BIOP/coloc/blob/main/resources/mini_logo.png" title="coLoc" width="10%" align="center">, **The Scientists** goals(s) are to :
 - fulfil all **Reviewer 3**'s demands so **The Scientists** get a valid experiment 
-- try to get as few clocks (<img src="https://github.com/BIOP/coloc/blob/main/resources//misc/clock.png" title="coLoc_logo" width="2%" align="center">) as possible at the end of the experiment
+- try to get as few clocks (<img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="coLoc_logo" width="2%" align="center">) as possible at the end of the experiment
 
-We'll just stress out one more time, the most important is to have a _pleased_ **Reviewer 3** (and only then try to limit the amount of <img src="D:\github\github_BIOP\coloc\resources\misc\clock.png" title="coLoc_logo" width="2%" align="center"> )
+We'll just stress out one more time, the most important is to have a _pleased_ **Reviewer 3** (and only then try to limit the amount of <img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="coLoc_logo" width="2%" align="center">)
 
 ### Time is of the essence 
-**The Scientists** have a limited amount of <img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="clocks" width="2%" align="center">) at their disposal.
+**The Scientists** have a limited amount of <img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="clocks" width="2%" align="center"> at their disposal.
 **The Scientists** can only use 20 <img src="https://github.com/BIOP/coloc/blob/main/resources//misc/clock.png" title="clock" width="2%" align="center"> (25 or 30 for decreasing difficulty)
 
 
