@@ -1,6 +1,8 @@
-# coLoc
+# <img src="https://github.com/BIOP/coloc/blob/main/resources/mini_logo.png" title="coLoc" width="10%" align="center">
 
 A collaborative board game to teach co-localization analysis, in which the _players_ ,a.k.a **The Scientists**, team up against the _game master_ , a.k.a **Reviewer 3**.
+
+<img src="https://github.com/BIOP/coloc/blob/main/resources/coLoc_logo.png"
 
 ## Game mode(s) :
 
