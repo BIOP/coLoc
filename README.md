@@ -8,5 +8,9 @@ A Board Game to teach co-localization analysis
 
 | Card(s) | Description | Notes |
 | ------------- | ------------- | ------------- |
-| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_20x-recto.png" title="20x" width="25%" align="center">  | ... | ... |
+| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_20x-recto.png" title="20x" width="25%" align="center"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_60x-recto.png" title="60x" width="25%" align="center"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_100x-recto.png" title="100x" width="25%" align="center">  | ... | ... |
+|  | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
 | ... | ... | ... |
