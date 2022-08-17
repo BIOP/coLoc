@@ -48,7 +48,7 @@ One of the six (so far) available experiments
 
 **The Scientist** will pick up cards to define the microscopy settings they'll be using.
 
-Available microscopy cards ( <img src="D:\github\github_BIOP\coloc\resources\cards\1-Microscopy_verso.png" title="Microscopy_verso" width="7%" align="center"> ) are : 
+Available microscopy cards ( <img src="resources/cards/1-Microscopy_verso.png" title="Microscopy_verso" width="7%" align="center"> ) are : 
 
 | Card(s) | Description | Notes |
 | ------------- | ------------- | ------------- |
@@ -60,6 +60,8 @@ Available microscopy cards ( <img src="D:\github\github_BIOP\coloc\resources\car
 **The Scientist** will pick up cards to define the image acquisitions they'll be using.
 
 Available microscopy cards ( <img src="D:\github\github_BIOP\coloc\resources\cards\2-Image_verso.png" title="clock" width="7%" align="center"> ) are :
+
+![](resources/cards/3-Analysis_cards_Seg_nuc-r.png){:height="200px" width="200px"}
 
 | Card(s) | Description | Notes |
 | ------------- | ------------- | ------------- |
