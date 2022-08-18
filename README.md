@@ -8,6 +8,10 @@ A collaborative board game to teach co-localization analysis, in which the _play
 
 ## A.Game mode(s) :
 
+
+In <img src="https://github.com/BIOP/coloc/blob/main/resources/mini_logo.png" title="coLoc" width="10%" align="bottom"> **The Scientists** have to prepare an _Experiment Plan_ that will be reviewed by **Reviewer 3**.
+The _Experiment Plan_, is made of cards describing the microscope settings, the images settings and finally the analysis workflow.
+
 You can play <img src="https://github.com/BIOP/coloc/blob/main/resources/mini_logo.png" title="coLoc" width="10%" align="bottom"> in two different modes: 
 - **Science First** 
 - **Time is of the essence**.
@@ -48,7 +52,7 @@ One of the six available experiments
 | 5 | <img src="https://github.com/BIOP/coloc/blob/main/resources/experiments/Experiments_Exp5.png" title="Exp5" width="50%" align="bottom"> | **The Protein-X** looks like blobs, **The Scientists** want to quantify if **The Protein-X** co-localizes more or less with the Golgi with , or without, a Drug-Y added to the media. | Protein-X , Golgi |
 | 6 | <img src="https://github.com/BIOP/coloc/blob/main/resources/experiments/Experiments_Exp6.png" title="Exp6" width="50%" align="bottom"> | **The Protein-X** looks like blobs, **The Scientists** want to quantify if **The Protein-X** co-localizes more or less with the Golgi with , or without, a Drug-Y added to the media. | Protein-X , Golgi , Whole Cell Staining | |
 
-Some helpers boards (@TODO add LINKs) are available so all the players of team can have a look to the available cards.
+Because **The Scientists** can be a group of 4 to 5, some helpers boards (LINKS HERE) are available so all the players of team can have a look to the available cards.
 
 
 ##  C. Microscope Acquisition :
@@ -146,8 +150,7 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 
 
 
-@TODO replace absolute link (https://github.com/BIOP/coloc/blob/main/) by (https://github.com/BIOP/coloc/blob/main/)
 @TODO : add cards pinhole settings "1 Airy Unit per channel", "Match sampling thickness"
 @TODO : add card randomization object location
 @TODO : change artboard name for deconvolution optimized to fix name
-
+@TODO : add link to helper boards

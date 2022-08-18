@@ -1,7 +1,7 @@
 
 ##  B. Start :
 
-If it's to easy **Reviewer 3** can distribute the card <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Live_details-R.png" title="bleaching" width="10%" align="bottom"> to **The Scientists** so they may adjust their _Experiment Plan_
+If it's too easy **Reviewer 3** can distribute the card <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Live_details-R.png" title="bleaching" width="10%" align="bottom"> to **The Scientists** so they may adjust their _Experiment Plan_.
 
 
 
