@@ -78,8 +78,8 @@ Because **The Scientists** can be a group of 4 to 5, some helpers boards (LINKS 
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_tiling-r.png" title="seq" width="25%" align="bottom"> | Perform a tiled acquisition | Sum the <img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="clocks" width="10%" align="bottom"> on your <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_verso.png" title="Images" width="25%" align="bottom"> and multiply this number by 4!|
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_px1000-r.png" title="px1000" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_px100-r.png" title="px100" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_px10-r.png" title="px10" width="25%" align="bottom"> | The xy dimension of your pixel | "10 nm" requires the "Super Resolution" card to be played |
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_SNR1-r.png" title="snr1" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_SNR5-r.png" title="snr5" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_SNR30-r.png" title="snr25" width="25%" align="bottom"> | The _Signal to Noise Ratio_ of your image | ... |
-| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z500-r.png" title="z500" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z150-r.png" title="z150" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z50-r.png" title="z50" width="25%" align="bottom"> | The z-step between your z acquisition | ... |
-| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingSingle-r.png" title="singleZ" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingFew-r.png" title="few" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingWhole-r.png" title="wholeZ" width="25%" align="bottom"> | The Volume coverage , either a single plane, a  few or the whole specimen | ... |
+| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z500-r.png" title="z500" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z150-r.png" title="z150" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_z50-r.png" title="z50" width="25%" align="bottom"> | The z-step between your z acquisitions | Not necessary if you acquire a single plane. |
+| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingSingle-r.png" title="singleZ" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingFew-r.png" title="few" width="25%" align="bottom"> , <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/2-Image_cards_samplingWhole-r.png" title="wholeZ" width="25%" align="bottom"> | The Volume coverage , either a single plane, a  few planes or enough plane to cover the whole specimen. | ... |
 | ... | ... | ... |
 
 ##  D. Analysis Settings :
@@ -113,7 +113,7 @@ During the review:
 - **The Scientists**
   - answer to the  **Reviewer 3**
   - can ask to play some <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_cards_verso.png" title="Experiments details" width="10%" align="bottom"> cards
-  - throw a dice , if **The Scientists** get :
+  - throw a dice (once for each card they want to play) , if **The Scientists** get :
     - 4,5,6 they can use the desired card
     - 1,2,3 they add the number of <img src="https://github.com/BIOP/coloc/blob/main/resources/misc/clock.png" title="clock" width="3%" align="bottom"> found on the <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Issues_cards_verso.png" title="Experiments issues" width="10%" align="bottom"> card
     
@@ -136,19 +136,9 @@ During the review:
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_ProjArtefact_issue-R.png" title="ProjArtefact" width="50%" align="bottom"> | ------------- | |------------- |
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Slow_issue-R.png" title="Slow" width="50%" align="bottom"> | ------------- | | |
 
-# 
-
-If it's to easy **Reviewer 3** can distribute the card <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Live_details-R.png" title="bleaching" width="10%" align="bottom"> to **The Scientists** so they may adjust their _Experiment Plan_
-
-If signals of interest have different Areas, **Reviewer 3** can distribute the card  <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_DifArea_details-R.png" title="AreaDiff" width="10%" align="bottom"> to help **The Scientists** figure this out.
 
 
-
-
-
-
-
-
+#TODOs
 
 @TODO : add cards pinhole settings "1 Airy Unit per channel", "Match sampling thickness"
 @TODO : add card randomization object location

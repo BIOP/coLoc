@@ -15,6 +15,8 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 
 ##  E. Review :
 
+##  E.1  cards descriptions :
+
 | **Reviewer 3** Card(s) | Description | "Details" Card(s) | Description |
 | ------------- | ------------- | ------------- |------------- |
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Threq_issue-R.png" title="Threshold" width="50%" align="bottom"> | **Reviewer 3** considers that defining a threshold is necessary, and a method should be provided to explain how. | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_SingleStain_details-R.png" title="SingleStain" width="50%" align="bottom"> | You did Single Stain controls, it's time to use them! |
@@ -34,5 +36,8 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Slow_issue-R.png" title="Slow" width="50%" align="bottom"> | **Reviewer 3** considers that your imaging settings are prone to artefacts due to the slow speed. | | |
 
 
+##  E.1  Examples :
 
-
+| **The Scientists** |  **Reviewer 3** | **The Scientists** | NOTES |
+| ------------- | ------------- | ------------- |------------- |
+|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="25%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_DeconvArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_template_details-R copy 2.png" title="..." width="50%" align="bottom">| |
