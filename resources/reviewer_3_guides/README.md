@@ -36,10 +36,21 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Slow_issue-R.png" title="Slow" width="50%" align="bottom"> | **Reviewer 3** considers that your imaging settings are prone to artefacts due to the slow speed. | | |
 
 
-##  E.1  Examples :
+##  E.2  Examples :
+
+##  E.2.a  microscopy :
 
 | **The Scientists** play |  **Reviewer 3** can play | **The Scientists** can "defend" with | NOTES |
 | ------------- | ------------- | ------------- |------------- |
 |<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_100x-recto.png" title="100x" width="50%" align="bottom"> OR <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_60x-recto.png" title="60x" width="50%" align="bottom">, AND <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_WF-recto.png" title="WF" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_OOFBlur_issue-R.png" title="OOFBLur" width="50%" align="bottom">  | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="50%" align="bottom"> and/or <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/1-Microscopy_cards_SpD-recto.png" title="seq" width="50%" align="bottom"> | Using High magnification objectives in Widefield is more likely to produce images with "out of focus blur". Deconvolution and/or Spinning Disk are recommended. Note : On thin samples (like in-vitro cells on a coverslip) using a 20x is more likely to capture light of the whole specimen (thanks to a larger "depth of field") resulting in less "out of focus blur". |
-|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_projections-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_ProjArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | No defense here , sorry ! | |
-|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_DeconvArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_template_details-R copy 2.png" title="..." width="50%" align="bottom">| |
+
+##  E.2.b  Images :
+| **The Scientists** play |  **Reviewer 3** can play | **The Scientists** can "defend" with | NOTES |
+| ------------- | ------------- | ------------- |------------- |
+
+##  E.2.C  Analysis :
+| **The Scientists** play |  **Reviewer 3** can play | **The Scientists** can "defend" with | NOTES |
+| ------------- | ------------- | ------------- |------------- |
+|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_projections-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_ProjArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | No defense here , sorry ! | Z-stack projection are the one thing to avoid when analyzing co-localization, as you lose the z localization information, the exact thing you want to measure. This lead to over-estimation of coloc because of projection-induced coloc.|
+|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_DeconvArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_template_details-R copy 2.png" title="..." width="50%" align="bottom">| Deconvolution is beneficial because it can improve resolution and SNR, but it is also prone to artefacts caused by deconvolution parameters. Therefore these parameters must be optimized before applying the workflow.|
+|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Seg_Point-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_LowSNR_issue-R.png" title="LowSNR" width="50%" align="bottom">  |<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="50%" align="bottom"> | To segment Points, one need to have images with a high enough SNR (Usually > 5). In order to improve image SNR, deconvolution can be used. |
