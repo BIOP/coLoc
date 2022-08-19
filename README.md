@@ -137,6 +137,8 @@ During the review:
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Slow_issue-R.png" title="Slow" width="50%" align="bottom"> | ------------- | | |
 
 
+![help for **Reviewer3**](resources/reviewer_3_guides/README.md)
+
 
 #TODOs
 
