@@ -37,7 +37,8 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 
 
 ##  E.1  Examples :
-
-| **The Scientists** |  **Reviewer 3** | **The Scientists** | NOTES |
+![](../cards/review/4-Details_Issues_cards_ProjArtefact_issue-R.png)
+| **The Scientists** play |  **Reviewer 3** can play | **The Scientists** can "defend" with | NOTES |
 | ------------- | ------------- | ------------- |------------- |
+|<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_projections-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_ProjArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | No defense here , sorry ! | |
 |<img src="https://github.com/BIOP/coloc/blob/main/resources/cards/3-Analysis_cards_Deconv-r.png" title="seq" width="50%" align="bottom">| <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_DeconvArtefact_issue-R.png" title="DeconvArtefact" width="50%" align="bottom">  | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_template_details-R copy 2.png" title="..." width="50%" align="bottom">| |
