@@ -140,6 +140,11 @@ During the review:
 The game master can find [some help](resources/reviewer_3_guides/README.md) to direct the game.
 
 
+# Thanks to
+
+[@lacan](https://github.com/orgs/BIOP/people/lacan) for first [microscopy icons](https://github.com/lacan/microscopy-icons) ! 
+[@leBIOP](https://github.com/BIOP) for first round of test and feedback ! 
+
 
 # TODOs
 
