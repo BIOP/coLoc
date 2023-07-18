@@ -18,6 +18,8 @@ If signals of interest have different Areas, **Reviewer 3** can distribute the c
 
 ##  E.1  cards descriptions :
 
+Whenever the  **Reviewer 3** play card(s) , **The Scientists** can try to defend their experiment plan using **"Details"**, they have to roll a dice and get 4, 5 or 6 to activate that card. Which means that if **The Scientists** get 1 ,2 or 3  they can't use the card and they need to change their plan!
+
 | **Reviewer 3** Card(s) | Description | "Details" Card(s) | Description |
 | ------------- | ------------- | ------------- |------------- |
 | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_Threq_issue-R.png" title="Threshold" width="80" align="bottom"> | **Reviewer 3** considers that defining a threshold is necessary, and a method should be provided to explain how. | <img src="https://github.com/BIOP/coloc/blob/main/resources/cards/review/4-Details_Issues_cards_SingleStain_details-R.png" title="SingleStain" width="80" align="bottom"> | You did Single Stain controls, it's time to use them! |
