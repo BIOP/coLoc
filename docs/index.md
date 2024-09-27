@@ -10,31 +10,45 @@ filename: index.md
 
 # Introduction
 
-<img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/main/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> is a collaborative board game to teach co-localization analysis, in which the players, a.k.a **The Scientists**, team up against the game master , a.k.a **Reviewer 3**.
+<img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> is a collaborative board game to teach co-localization analysis, in which the players, a.k.a **The Scientists**, team up against the game master , a.k.a **Reviewer 3**.
+
+
+
+<img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/chatgpt_generated_image.png" title="coLoↄ" width="25%" align="bottom">
 
 # How to play
 
-In a <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/main/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> game **The Scientists** have to prepare an Experiment Plan that will be reviewed by **Reviewer 3**. The Experiment Plan, is made of cards describing the microscope settings, the images settings and finally the analysis workflow. 
+In a <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> game **The Scientists** , receive an **Experiment** card (among 6 possible) and have to prepare an **Experiment Plan** that will be reviewed by **Reviewer 3**. 
 
-You can play <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/main/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom">  in two different modes:
+
+<img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/StudentsPlayingTheGame.png" title="coLoↄ" width="25%" align="bottom"> 
+
+The Experiment Plan, is made of cards describing the microscope settings, the images settings and finally the analysis workflow. 
+
+| Scientific | Reviewer 3 |
+|---|---|
+![Microscopy & Image ](resources/sc_deck_microscope_image.png) ![Analysis](resources/sc_deck_analysis.png) |![Reviewer](resources/rev_deck.png)
+
+You can play <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom">  in two different modes:
 
 - Science First
 - Time is of the essence.
 
-## Science First
+### Science First
 
 This is the recommended game mode for courses or with new gamers.
 
-In <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/main/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> , **The Scientists** goals(s) are to :
+In <img src="https://raw.githubusercontent.com/BIOP/coLoc/refs/heads/github_page/docs/resources/mini_logo.png" title="coLoↄ" width="10%" align="bottom"> , **The Scientists** goals(s) are to :
 
 - fulfil all **Reviewer 3**'s demands so The Scientists get a valid experiment
-- try to get as few clocks (<img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="5%" align="bottom">) as possible at the end of the experiment
+- try to get as few clocks (<img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="3%" align="bottom">) as possible at the end of the experiment
 
-We'll just stress out one more time, the most important is to have a pleased **Reviewer 3** (and only then try to limit the amount of <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="5%" align="bottom">)
+We'll just stress out one more time, the most important is to have a pleased **Reviewer 3** (and only then try to limit the amount of <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="3%" align="bottom">)
 
-## Time is of the essence
+### Time is of the essence
 
-The Scientists have a limited amount of <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="5%" align="bottom"> at their disposal. The Scientists can only use 20 <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="5%" align="bottom"> (25 or 30 for decreasing difficulty)
+The Scientists have a limited amount of <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="3%" align="bottom"> at their disposal. The Scientists can only use 20 <img src="https://raw.githubusercontent.com/BIOP/coloc/refs/heads/main/resources/misc/clock.png" title="clocks" width="3%" align="bottom"> (25 or 30 for decreasing difficulty)
+
 
 
 More about the game meachnics can be found [here](https://github.com/BIOP/coLoc)
@@ -71,7 +85,7 @@ The game was designed by [Romain Guiet](https://people.epfl.ch/romain.guiet?lang
 # FAQ
 
 - The game is available in English.
-- The cost covers the production of the game as we produce it in-house at the EPFL.
+- The cost covers the production of the game as we produce it on-demand in-house at the EPFL .
 - The shipping cost is not included and will be calculated based on your location.
 
 
