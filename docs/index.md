@@ -23,6 +23,15 @@ The Experiment Plan, is made of cards describing the microscope settings, the im
 
 More about the game meachnics can be found [here](https://github.com/BIOP/coLoc)
 
+# Print the game
+
+Please find below a link to download the game and print it yourself. 
+
+<a href="https://github.com/BIOP/coLoc/raw/refs/heads/github_page/docs/resources/print_coloc_yourself.zip" target="_blank">    
+    <button style="background-color:#36a5c7; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">        Download & Print    
+    </button> 
+</a> 
+
 
 # Order the game
 
@@ -36,7 +45,6 @@ We offer 3 different edition of the game, each with a different price and conten
     </button> 
 </a> 
 
-
 | | Standard | Light | Scientist Deck | 
 |---|---|---|---|
 | Price ( CHF) | 50 | 30 | 15 |
@@ -45,7 +53,6 @@ We offer 3 different edition of the game, each with a different price and conten
 | **Experiments** deck | 5| 5 |   |
 | Dice | 1 |  |  |
 | Boxes| 4 |  |  |
-
 
 # About us
 
