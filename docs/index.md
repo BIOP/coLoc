@@ -36,9 +36,9 @@ Please find below a link to download the game and print it yourself.
 # Order the game
 
 We offer 3 different edition of the game, each with a different price and content.
-- **Standard** : the full game, with 3 decks of **The Scientists** cards, 1 deck of **Reviewer 3** cards, 6 decks of **The Experiment** cards, 1 dice and 4 boxes.
+- **Standard** : the full game, with 3 decks of **The Scientists** cards, 1 deck of **Reviewer 3** cards, 1 deck of **The Experiment** cards, 1 dice and 4 boxes.
 - **Light** : a more compact version, with only the essential cards (no boxes, nor dice). Ideal if you want to save on shipping!
-- **Scientist** deck: If you think 3 teams of scientist are not enough you can order extra deck(s) of **The Scientists**.
+- **Scientist** deck: If you think 3 teams of scientists are not enough you can order extra deck(s) of **The Scientists**.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5xDxc1I8-ic5CToOcMGiSdL84i0TuSlYm4bUCrNZDklTReQ/viewform?usp=sharing" target="_blank">    
     <button style="background-color:#36a5c7; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">        Order the game    
