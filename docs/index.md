@@ -21,7 +21,7 @@ The Experiment Plan, is made of cards describing the microscope settings, the im
 ![Microscopy & Image ](resources/sc_deck_microscope_image.png) ![Analysis](resources/sc_deck_analysis.png) |![Reviewer](resources/rev_deck.png)
 
 
-More about the game meachnics can be found [here](https://github.com/BIOP/coLoc)
+To know more about the game, why and how we created it please havea a look to our [post on FocalPlane](https://focalplane.biologists.com/2024/10/20/teaching-co-localisation-analysis-from-lecture-to-leisure/) and to know more about meachnics can be found [here](https://github.com/BIOP/coLoc)
 
 # Print the game
 
