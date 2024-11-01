@@ -1,8 +1,8 @@
 ---
-name: "New card \U0001F0CF"
+name: "\U0001F0CF New card \U0001F0CF"
 about: You have an awesome idea and you would like to propose a new card for the game!
 title: ''
-labels: enhancement
+labels: enhancement, new card
 assignees: romainGuiet
 
 ---

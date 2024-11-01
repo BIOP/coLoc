@@ -1,8 +1,8 @@
 ---
-name: "Game feedback \U0001F61E\U0001F602\U0001F64F\U0001F975\U0001F92A\U0001F621"
+name: "\U0001F61E\U0001F602\U0001F64F Game feedback \U0001F975\U0001F92A\U0001F621"
 about: You want to give some feedback on a coloc game you played!
 title: ''
-labels: ''
+labels: feedback
 assignees: romainGuiet
 
 ---
